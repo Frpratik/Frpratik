@@ -1,20 +1,28 @@
-# 👋 Hey there, I'm **Pratik Ghuge**  
-### 🚀 Backend Developer | Full Stack Developer | Python • Django • FastAPI • AWS
+<!-- HEADER -->
+<h1 align="center">👋 Hey there, I'm <b>Pratik Ghuge</b></h1>
+<h3 align="center">🚀 Backend Developer | Full Stack Developer | Python • Django • FastAPI • AWS</h3>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/Frpratik">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&pause=900&color=3CF4FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI;SaaS+%26+Microservices+Engineer;Building+Scalable+Systems;Tech+Mentor;Open+Source+Contributor" />
+  </a>
+</p>
 
 ---
 
 ## 🌟 About Me  
-I’m a passionate **Backend / Full Stack Developer** with **2+ years of experience** building scalable, secure, and production-ready applications.
+I’m a passionate **Backend / Full Stack Developer** with **2+ years of professional experience** building scalable, secure, and production-grade systems.
 
 I specialize in:  
-➡️ Clean backend architectures  
-➡️ RESTful APIs & Microservices  
-➡️ Multi-tenant SaaS  
-➡️ Automation, schedulers & workflows  
-➡️ Monitoring & dashboards  
-➡️ Real-time data pipelines  
+- Clean backend architectures  
+- RESTful APIs & Microservices  
+- Multi-tenant SaaS platforms  
+- Automations, schedulers & workflows  
+- Monitoring dashboards & observability  
+- Real-time pipelines & analytics  
 
-I also love **mentoring developers**, helping them build strong fundamentals & industry-grade backend projects.
+I also enjoy **mentoring developers**, helping them build strong backend fundamentals & industry-ready projects.
 
 ---
 
@@ -50,7 +58,7 @@ I also love **mentoring developers**, helping them build strong fundamentals & i
 
 ---
 
-## ⚡ Tools & Others  
+## ⚡ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -62,17 +70,18 @@ I also love **mentoring developers**, helping them build strong fundamentals & i
 
 ### 🧑‍💻 **Full Stack Developer — NeenOpal Inc. (Remote)**  
 **Nov 2025 – Present**  
-- Designing secure APIs, dashboards and data-driven backend systems.
+- Designing secure backend APIs & dashboards.  
+- Building real-time data systems & ETL pipelines.
 
-### 🧭 **Backend Advisor — Syncify Edutech Solutions** *(Part-time)*  
+### 🧭 **Backend Advisor — Syncify Edutech (Part-time)**  
 **Sep 2025 – Present**  
 - Mentoring 6 backend interns.  
-- Guiding architecture, API quality & deployment.
+- Code reviews, architecture guidance & deployment support.
 
-### 🎓 **Founder & Lead Mentor — One2One IT Mentors**  
+### 🎓 **Founder & Mentor — One2One IT Mentors**  
 **Oct 2025 – Present**  
-- 1:1 mentorship for backend/dev career growth.  
-- Roadmaps, clean code, system design, mock interviews.
+- 1:1 mentorship for backend careers.  
+- Python, Django, FastAPI, Clean Code & System Design.
 
 ---
 
@@ -80,56 +89,55 @@ I also love **mentoring developers**, helping them build strong fundamentals & i
 **Mar 2024 – Oct 2025**
 
 ### 🔹 AIM3 — Stock Market Tracking System  
-- Real-time insights via Django + Y-Finance  
-- Sentiment analysis, cron jobs, automation  
-- Dash visualizations, Grafana monitoring  
+- Real-time insights using Django + Y-Finance  
+- Automated data pipelines & sentiment analysis  
+- Dash graphs + Grafana monitoring  
 
 ### 🔹 AppInsights — Multi-Tenant DMS (ICICI Securities)  
-- Schema-isolated SaaS  
-- Encryption, RBAC, JWT  
-- Automated document workflows  
+- Schema-isolated SaaS architecture  
+- Encryption, JWT, custom middleware  
+- Automated audit workflows  
 
 ### 🔹 Godrej PET Admin Panel  
-- CRUD modules + RBAC  
-- Modular MySQL models  
+- CRUD, RBAC, modular MySQL architecture  
 
-### 🔹 eMeeting Audit System  
-- End-to-end meeting lifecycle automation  
+### 🔹 eMeeting Automation System  
+- Full meeting lifecycle automation  
 
-### 🔹 Shriram Wealth POC  
-- AI-backed investment suggestions  
+### 🔹 Shriram Wealth – Investment POC  
+- AI-assisted investment suggestions  
 
 ---
 
 # 📂 Featured Projects  
 
 ### 📊 **AIM3 – Stock Market Tracking System**  
-Real-time insights, automation, dashboards.  
-**Tech:** Django, Y-Finance, BeautifulSoup, Ollama, Dash, Prometheus, Grafana  
+Real-time tracking, automation & analytics.  
+**Tech:** Django, Y-Finance, BS4, Ollama, Dash, Grafana  
 
 ---
 
 ### 🗂️ **AppInsights – Multi-Tenant DMS**  
-SaaS architecture with encryption and RBAC.  
+Secure enterprise document management for ICICI.  
 **Tech:** Django, JWT, MySQL, Redis  
 
 ---
 
 ### 📅 **eMeeting Workflow System**  
-Agenda, RSVP & audit workflows for enterprises.  
+Automated meeting workflows (agenda, RSVP, audit).  
 **Tech:** Django, MySQL  
 
 ---
 
 ### ⚡ **Investor Management Platform (POC)**  
-Async FastAPI backend with modern API structure.  
+FastAPI-based async backend for investor insights.  
 **Tech:** FastAPI, Async ORM  
 
 ---
 
 # 🎓 Education  
 
-🎓 **Full Stack Dev Master’s Course — IT Vedant** (2023–2024)  
+🎓 **Full Stack Development Master’s — IT Vedant** (2023–2024)  
 🎓 **BCA — Pune University** (2020–2023)  
 🎓 **HSC Science — SBNE Jr. College** (2018–2020)
 
@@ -143,6 +151,8 @@ Async FastAPI backend with modern API structure.
 </p>
 
 ---
+
+# 🤝 Connect With Me  
 
 📧 [Email](ghugepratik13@gmail.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/pratik-ghuge1926/) 
