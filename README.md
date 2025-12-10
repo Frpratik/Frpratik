@@ -1,12 +1,25 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hey there, I'm <b>Pratik Ghuge</b></h1>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3CF4FF&height=180&section=header&text=Pratik%20Ghuge&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h3 align="center">🚀 Backend Developer | Full Stack Developer | Python • Django • FastAPI • AWS</h3>
+
+<!-- TOP BORDER FOR TYPING ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3CF4FF&height=2" width="55%" />
+</p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/Frpratik">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&pause=900&color=3CF4FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI;SaaS+%26+Microservices+Engineer;Building+Scalable+Systems;Tech+Mentor;Open+Source+Contributor" />
   </a>
+</p>
+
+<!-- BOTTOM BORDER FOR TYPING ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3CF4FF&height=2" width="55%" />
 </p>
 
 ---
@@ -93,7 +106,7 @@ I also enjoy **mentoring developers**, helping them build strong backend fundame
 - Automated data pipelines & sentiment analysis  
 - Dash graphs + Grafana monitoring  
 
-### 🔹 AppInsights — Multi-Tenant DMS (ICICI Securities)  
+### 🔹 AppInsights — Multi-Tenant DMS  
 - Schema-isolated SaaS architecture  
 - Encryption, JWT, custom middleware  
 - Automated audit workflows  
@@ -118,13 +131,13 @@ Real-time tracking, automation & analytics.
 ---
 
 ### 🗂️ **AppInsights – Multi-Tenant DMS**  
-Secure enterprise document management for ICICI.  
+Secure enterprise document management.  
 **Tech:** Django, JWT, MySQL, Redis  
 
 ---
 
 ### 📅 **eMeeting Workflow System**  
-Automated meeting workflows (agenda, RSVP, audit).  
+Automated meeting workflows.  
 **Tech:** Django, MySQL  
 
 ---
@@ -161,3 +174,7 @@ FastAPI-based async backend for investor insights.
 ---
 
 ⭐ *“Crafting scalable, secure, and meaningful backend systems with clarity, consistency, and clean engineering.”*  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3CF4FF&height=180&section=header&text=Thank%20You&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
